@@ -1,0 +1,251 @@
+"Search"="Search";
+"About"="About";
+"Cancel"="Cancel";
+"Share"="Share";
+"Continue"="Continue";
+"GetStarted"="Get Started";
+"Success"="Success";
+"Support"="Support";
+"Settings"="Settings";
+"Add"="Add";
+
+"Unmuted" = "Unmuted";
+"Muted" = "Muted";
+
+"Create" = "Create";
+"Privacy" = "Privacy";
+"Bio" = "Bio";
+"GroupName" = "Group Name";
+"EntreGroupName" = "Enter Group Name";
+"AboutYourGroup" = "About Your Group";
+"Private" = "Private";
+"Public" = "Public";
+"Helpful" = "Helpful";
+
+"NoNetwork"="Network Connection Unavailable";
+"Edit"="Edit";
+"Delete"="Delete";
+"Actions"="Actions";
+"Save"="Save";
+"Details"="Details";
+"VerifyEmail" = "Please verify your email";
+
+"Prayers" = "Prayers";
+"Thanksgiving" = "Thanksgiving";
+"JustForYou" = "Just For You";
+"MyGroups" = "My Groups";
+"FindGroups" = "Find Groups";
+"MyBuddies" = "My Buddies";
+"Suggested" = "Suggested";
+"FindBuddies" = "Find Buddies";
+"MyJournal" = "My Journal";
+"DreamBook" = "Dream Book";
+"Answered" = "Answered";
+"WaitingOnGod" = "Waiting On God";
+"AllPrayers" = "All Prayers";
+"Notifications" = "Notifications";
+"BuddyRequest" = "Buddy Request";
+"GroupRequest" = "Group Request";
+"GroupInvite" = "Group Invite";
+
+"Prayed" = "Prayed";
+"JustForYouTitle" = "Pray For Buddies";
+"FollowPrayer" = "Follow Prayer";
+"UnfollowPrayer" = "Unfollow Prayer";
+"ReportPrayer" = "Report Prayer";
+
+"Buddies" = "Buddies";
+"World" = "World";
+"Groups" = "Groups";
+"More" = "More";
+
+"QuickEdit" = "Quick Edit";
+"YourPrayers" = "Your Prayers";
+"EditProfile" = "Edit Profile";
+"ChooseImage" =  "Choose a new image";
+"FillingToday" = "How are you filling today";
+
+"PrayerTitle" = "Prayer Title";
+"NewPrayer" = "New Prayer";
+"NewJournal" = "New Journal";
+"NewDream" = "New Dream";
+"YourPrayer" = "Your Prayer";
+"Post" = "Post";
+
+"SearchGroups" = "Search Groups";
+"NewGroups" = "New Groups";
+"SearchBuddies" = "Search Buddies";
+"Online" = "Online";
+"SuggestedBuddies" = "Suggested Buddies";
+"NewBuddies" = "New Buddies";
+
+"PrayersForWorld" = "Prayers For The World";
+"HowToPray" = "How To Pray";
+"Warriors" = "Warriors";
+"User" = "User";
+
+"General" = "General";
+"Finance" = "Finance";
+"Relationship" = "Relationship";
+"Family" = "Family";
+"Healing" = "Healing";
+"Warfare" = "Warfare";
+"Member" = "Member";
+"Members" = "Members";
+
+"Secs" = " Secs ";
+"SecsAgo" = " Secs Ago ";
+"ASecAgo" = " A Sec Ago ";
+"MinsAgo" = " Mins Ago ";
+"AMinAgo" = " A Min Ago ";
+"Today" = " Today";
+"Yesterday" = " Yesterday";
+
+
+"IsFollowingPrayer" = "Is following your prayer ";
+"nowBuddies" = "Is now buddies with ";
+
+"SendWordOfEncouragementPrayer" = "Send a word of Encouragement on your prayer ";
+"HasPrayedPrayer" = "Has prayed on your prayer ";
+"AgreesPrayer" = "Agrees with you and says Amen on your prayer ";
+"AgreesEncouragenentPrayer" = "Agrees with you and says Amen on your Word of Encouragement ";
+
+"SendWordOfEncouragementGroup" = "Send a word of Encouragement on your group prayer ";
+"HasPrayedGroup" = "Has Prayed on your group prayer ";
+"AgreesGroupPrayer" = "Agrees with you and says Amen on your group prayer ";
+"AgreesEncouragenentGroupPrayer" = "Agrees with you and says Amen on your Word of Encouragement on the group prayer ";
+
+"DeclineRequest" = "Are you sure you want to Decline this Request?";
+"DeclineInvite" = "Are you sure you want to Decline this Invite?";
+"DeleteThisPrayer" = "Are you sure you want to DELETE this Prayer?";
+"DeleteThisGroup" = "Are you sure you want to DELETE this group?";
+
+"Accounts" = "Accounts";
+"Info" = "Info";
+"Other" = "Other";
+"Version" = "Version";
+"ResetTutorial" = "Reset Tutoria";
+"RequestFeature" = "Request a Feature";
+"NoMailSetup"  = "No Mail Accounts Setup";
+"ReportBug" = "Report a Bug";
+"GiveYourFeedback" = "Give Your Feedback";
+"PrivacyPolicy" = "Privacy Policy";
+"TermsConditions" = "Terms and Conditions";
+"Licenses" = "Licenses";
+"Help" = "Help";
+"Bible" = "Bible";
+"Logout" = "Logout";
+"LastSeen" = "Last Seen";
+
+"UnAnswered" = "Unanswered";
+"Repost" = "Repost";
+"Notes" = " Notes";
+"NoNotes" = " No Notes";
+
+
+"JournalTitle" = "Journal Title";
+"YourJournal" = "Your Journal";
+"DreamTitle" = "Dream Title";
+"YourDream" = "Your Dream";
+
+"PostAs" = " Post as";
+"Anonymous" = "Anonymous";
+
+"Featured" = "Featured";
+"AllArticles" = "All Articles";
+
+"SharingTitle" = "Sharing";
+"SharingButton" = "Share Prayer Circle";
+"DontFOrget" = "Don't Forget To Pray For Someone";
+"SharingText" = "Sharing is caring if you believe the Lord Jesus is our Lord and King then share this with your friends";
+"AndCounting" = "and counting";
+
+"AddMembers" = "Add Members";
+"ViewMembers" = "View Members";
+"EditGroup" = "Edit Group";
+"DeleteGroup" = "Delete Group";
+"QuitGroup" = "Quit Group";
+"JoinGroup" = "Join Group";
+"MoreOptions" = "More Options";
+"Createdby" = "created by ";
+
+"GroudChatTitle" = "Bulletin";
+
+
+"Login" = "Login";
+"LoginSignup" = "Login or Signup";
+"LoginToEncourgae" = "Please Login to Encourage";
+"LoginViewJust" = "Please Login to view just for you";
+"CheckEmail" = "Check Email";
+"WeSentEmail" = "We have sent you a new link please check your email \n (Hotmail, please check your junk mail), if you don't receive it in 3 minute please resend.";
+"GoToMail" = "Go To Email";
+"LoginToViewSetting" = "Please Login to view your setting";
+"LoginToViewPrayer" = "Please Login to post a prayer";
+
+"Profanity" = "Profanity";
+"PostedSuccessfully" = "Posted Successfully";
+"ProfanityAsYou" = "As you can see we are all civilised people here!";
+"ProfanityLooks" = "It looks like we have some unwanted words";
+"ToJoinGroupEmail" = "To Join this Group Please Verify Your Email";
+"VerifiedEmail" = "Verified Email";
+
+"BibleError" = "Bible Error";
+"TheBook" = "The book";
+"Help" = "Help";
+"BibleBook" = "does not exist\n e.g @Genesis-3:4 or @gn-3:4 \n @2Kings-22:42 or @kgs-22:42. \n To see list of Books and Abbreviations go to the help section.";
+"BibleChapter" = "The Chapter does not exist.\n e.g @Genesis-3:4 or @gn-3:4 \n @2Kings-22:42 or @kgs-22:42. \n To see list of Books and Abbreviations go to the help section.";
+"BibleVerse" = "The Verse does not exist.\n e.g @Genesis-3:4 or @gn-3:4 \n @2Kings-22:42 or @kgs-22:42. \n To see list of Books and Abbreviations go to the help section.";
+
+
+"OnBoardingWelcome" = "Welcome";
+"OnBoardingWelcomeDes" = "It is believed that those who pray together stay together. \nPray for someone whilst someone prays for you";
+"OnBoardingBuddies" = "Buddies";
+"OnBoardingBuddiesDes" = "There's nothing like finding a buddy and praying together ";
+"OnBoardingJournals" = "Journals & Dreams";
+"OnBoardingJournalsDes" = "Record your daily Journals and your spiritual Dreams";
+"OnBoardingGroups" =  "Groups";
+"OnBoardingGroupsDes" = "Create groups or join family, friends or your church groups";
+"OnBoardingLogin" = "Login & Pray";
+"OnBoardingLoginDes" = "Login or Signup \nDon't Forget To Pray For Someone";
+"VerifyAccount" = "Your Account Is Not Verified";
+"Pleaselogin" = "Please login or register";
+"ThisKind" = "This kind cannot be driven out by anything but prayers... - Mark 9:29";
+
+"SorryThisPerson" = "Sorry this person wants to remain anonymous";
+"Comments" = "Comments";
+"by" = "by";
+"ThankPraying" = "Thank you for praying God bless you";
+"PrayedMistake" = "Sorry you prayed by mistake.";
+"AgreeMistake" = "Sorry you agreed by mistake.";
+"ThankYouForPraying" = "Thank you for praying God bless you.";
+"ThankYouForAgree" = "God bless you for agreeing with this prayer!";
+
+
+"Inappropriate" = "Inappropriate";
+"Offensive" = "Offensive";
+"Blasphemy" = "Blasphemy";
+"ReportSent" = "Report Sent";
+"PrayerReportInfo" = "We are so sorry you find this prayer";
+"ReportInfoTitle" = "Report Info";
+"ReportInfoText" = "You have already Report this prayer, someone is dealing with it.";
+
+
+"UpdateSuccessfully" = "Update was Successfully";
+"AmenPrayer" = "Amen Prayer";
+"Encourage" = "Encourage";
+"OpenPrayer" = "Open Prayer";
+
+
+"Status" = "Status";
+"FirstName" = "First Name";
+"AddFirstame" = "Add your first name";
+"LastName" = "Last Name";
+"AddLastName" = "Add your last name";
+"Gender" = "Gender";
+"Birthday" = "Birthday";
+"AboutYou" = "About You";
+"WasHelpful"= "We thank God this was Helpful";
+"NotHelpful"= "Sorry this was not Helpful";
+"YourThoughts" = "Let us know your thoughts";
+"BeingWarrior" = "Thank you for being a Warrior!";
+"ShareImage" = "Share Image";
